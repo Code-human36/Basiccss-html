@@ -1,0 +1,36 @@
+#maindiv{
+  height:600px;
+  width:40%px;
+  margin-left:25%;
+  margin-right: 25%;
+  margin-top:5%;
+}
+#div1{
+  border:2px solid white;
+  height: 400px;
+  background-color: rgb(252, 251, 251);
+}
+#div2{
+  background-color: black;
+  height:200px;
+}
+img{
+  width:100%;
+  height:100%;
+  object-fit: contain;
+  display: block;
+}
+body{
+  background-color:black;
+}
+h1{
+  text-align: center;
+  font-size:25px;
+  font-family:Libre Baskerville;
+  text-transform: uppercase;
+  color:white;
+}
+p{
+  text-align: center;
+  color:white;
+}
